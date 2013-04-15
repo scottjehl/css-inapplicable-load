@@ -75,10 +75,10 @@ Unfortunately, this behavior is not present in some of the most popular browsers
 
 Below are links to various browser vendors' bug trackers with feature requests for implementing this behavior.
 
-- Internet Explorer: link pending...
-- Firefox: link pending...
-- Opera Desktop: link pending...
-- Opera Mini: link pending...
+- Internet Explorer: Reported Opera bug DSK-384226
+- Firefox: https://bugzilla.mozilla.org/show_bug.cgi?id=861870
+- Opera Desktop: Reported Opera bug DSK-384226 (private tracker)
+- Opera Mobile: Noted in issue above.
 
 
 
