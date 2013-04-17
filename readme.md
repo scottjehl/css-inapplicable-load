@@ -75,7 +75,7 @@ Unfortunately, this behavior is not present in some of the most popular browsers
 
 Below are links to various browser vendors' bug trackers with feature requests for implementing this behavior.
 
-- Internet Explorer: Reported Opera bug DSK-384226
+- Internet Explorer: https://connect.microsoft.com/IE/feedback/details/783683/defer-download-of-stylesheets-targeted-at-inapplicable-media
 - Firefox: https://bugzilla.mozilla.org/show_bug.cgi?id=861870
 - Opera Desktop: Reported Opera bug DSK-384226 (private tracker)
 - Opera Mobile: Noted in issue above.
